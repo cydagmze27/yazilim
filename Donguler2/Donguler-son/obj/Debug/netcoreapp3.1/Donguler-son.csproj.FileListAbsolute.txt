@@ -1,0 +1,13 @@
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.exe
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.deps.json
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.runtimeconfig.json
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.runtimeconfig.dev.json
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.dll
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\bin\Debug\netcoreapp3.1\Donguler-son.pdb
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.csprojAssemblyReference.cache
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.AssemblyInfoInputs.cache
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.AssemblyInfo.cs
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.csproj.CoreCompileInputs.cache
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.dll
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.pdb
+C:\Users\SUNOS\Desktop\kodlama.io\ders2C#\Donguler\Donguler-son\obj\Debug\netcoreapp3.1\Donguler-son.genruntimeconfig.cache
